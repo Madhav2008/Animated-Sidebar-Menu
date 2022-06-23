@@ -130,5 +130,6 @@ body {
 }
 
 .navigation ul li a .text {
-    position: relative;padding: 0;
+    position: relative;
+    padding: 0;
 }
