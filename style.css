@@ -113,5 +113,5 @@ body {
 }
 
 .navigation ul li a .icon::before {
-    content: '';position: ;
+    content: '';position: absolute;
 }
