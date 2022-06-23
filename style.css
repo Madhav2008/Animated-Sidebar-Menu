@@ -83,7 +83,7 @@ body {
     width: 100%;
     height: 60px;
     padding: 0 10px;
-    transition: 0.5s;
+    /* transition: 0.5s; */
 }
 
 .navigation ul li.active {
