@@ -32,5 +32,6 @@ body {
 }
 
 .navigation .menuToggle::before {
-    content: '';position: ;
+    content: '';
+    position: ;
 }
