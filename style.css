@@ -70,4 +70,6 @@ body {
     box-shadow: none;
 }
 
-.navigation ul {display: flex;}
+.navigation ul {
+    display: flex;
+}
