@@ -137,5 +137,6 @@ body {
     align-items: center;
     color: #333;
     opacity: 0;
-    visibility: hidden;transition: ;
+    visibility: hidden;
+    transition: ;
 }
