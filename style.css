@@ -18,7 +18,7 @@ body {
     background: #fff;
     transition: 0.5s;
     display: flex;
-    justify-content: center;
+    justify-content: center;align-items: ;
 }
 
 .navigation.open {
