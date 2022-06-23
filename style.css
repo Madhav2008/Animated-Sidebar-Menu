@@ -129,4 +129,6 @@ body {
     opacity: 0.5;
 }
 
-.navigation ul li a .text {position: ;}
+.navigation ul li a .text {
+    position: ;
+}
