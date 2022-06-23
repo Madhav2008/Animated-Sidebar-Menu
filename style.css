@@ -38,5 +38,5 @@ body {
     width: 30px;
     height: 2px;
     background: #333;
-    transform: translateY();
+    transform: translateY(-8px);
 }
