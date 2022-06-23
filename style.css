@@ -133,5 +133,6 @@ body {
     position: relative;
     padding: 0 15px;
     height: 60px;
-    display: flex;align-items: center;
+    display: flex;
+    align-items: center;
 }
