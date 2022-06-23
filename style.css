@@ -91,7 +91,7 @@ body {
 }
 
 .navigation.open ul li.active {
-    transform: translateX(0);
+    transform: translateX(10px);
 }
 
 .navigation ul li a {
