@@ -27,5 +27,5 @@ body {
     border-bottom: 1px solid rgba(0, 0, 0, 0.25);
     cursor: pointer;
     display: flex;
-    justify-content: flex-start;align-items: ;
+    justify-content: flex-start;align-items: center;
 }
