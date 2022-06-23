@@ -95,4 +95,6 @@ body {
     text-decoration: none;
 }
 
-.navigation ul li a .icon {position: relative;}
+.navigation ul li a .icon {
+    position: relative;
+}
