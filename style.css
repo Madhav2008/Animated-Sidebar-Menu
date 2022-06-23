@@ -110,4 +110,6 @@ body {
 .navigation ul li.active a .icon {
     background: var(--clr);
     color: #fff;
-}.navigation ul li a .icon
+}
+
+.navigation ul li a .icon
