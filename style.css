@@ -89,6 +89,6 @@ body {
 .navigation ul li a {
     position: relative;
     display: flex;
-    align-items: center;
     justify-content: flex-start;
+    align-items: center;
 }
