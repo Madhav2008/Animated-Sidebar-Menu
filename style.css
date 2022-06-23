@@ -71,5 +71,5 @@ body {
 }
 
 .navigation ul {
-    display: flex;flex-direction: ;
+    display: flex;flex-direction: column;
 }
