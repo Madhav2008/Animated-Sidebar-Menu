@@ -78,5 +78,6 @@ body {
 }
 
 .navigation ul li {
-    list-style: none;position: relative;
+    list-style: none;
+    position: relative;
 }
