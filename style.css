@@ -77,4 +77,6 @@ body {
     width: 100%;
 }
 
-.navigation ul li {list-style: ;}
+.navigation ul li {
+    list-style: ;
+}
