@@ -31,4 +31,4 @@ body {
     align-items: center;
 }
 
-.navigation .menuToggle::before {}
+.navigation .menuToggle::before {content: ;}
