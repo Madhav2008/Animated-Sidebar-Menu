@@ -126,5 +126,5 @@ body {
 }
 
 .navigation ul li.active a .icon::before {
-    opacity: 1;
+    opacity: 0.5;
 }
