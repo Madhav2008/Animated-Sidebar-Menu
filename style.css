@@ -90,7 +90,7 @@ body {
     transform: translateX(30px);
 }
 
-.navigation ul li.active {
+.navigation.open ul li.active {
     transform: translateX(30px);
 }
 
