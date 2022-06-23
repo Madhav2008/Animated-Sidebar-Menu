@@ -97,5 +97,6 @@ body {
 
 .navigation ul li a .icon {
     position: relative;
-    display: block;min-width: 55px;
+    display: block;
+    min-width: 55px;
 }
