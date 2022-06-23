@@ -138,5 +138,5 @@ body {
     color: #333;
     opacity: 0;
     visibility: hidden;
-    transition: 0;
+    transition: 0.5s;
 }
