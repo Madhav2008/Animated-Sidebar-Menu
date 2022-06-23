@@ -86,7 +86,7 @@ body {
     transition: 0.5s;
 }
 
-.navigation ul li.active {}
+.navigation ul li.active {transform: ;}
 
 .navigation ul li a {
     position: relative;
