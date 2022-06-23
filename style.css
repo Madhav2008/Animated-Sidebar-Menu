@@ -35,5 +35,6 @@ body {
     content: '';
     position: absolute;
     width: 30px;
-    height: 2px;background: #333;
+    height: 2px;
+    background: #333;
 }
