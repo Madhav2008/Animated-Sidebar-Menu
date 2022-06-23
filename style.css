@@ -24,5 +24,5 @@ body {
     left: 0;
     width: 100%;
     height: 60px;
-    border-bottom: 1px solid rgba(red, green, blue, 0.25);
+    border-bottom: 1px solid rgba(0, green, blue, 0.25);
 }
