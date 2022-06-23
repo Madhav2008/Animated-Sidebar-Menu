@@ -146,4 +146,6 @@ body {
     visibility: visible;
 }
 
-.navigation ul li.active a .text {color: #333;}
+.navigation ul li.active a .text {
+    color: #333;
+}
