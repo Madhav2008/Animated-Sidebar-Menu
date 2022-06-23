@@ -123,4 +123,4 @@ body {
     filter: blur(8px);
     opacity: 0;
     transition: 0.5s;
-}
+}.navigation ul li a .icon::before 
