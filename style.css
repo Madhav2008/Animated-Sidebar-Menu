@@ -17,7 +17,7 @@ body {
     width: 75px;
     background: #fff;
     transition: 0.5s;
-    display: flex;justify-content: ;
+    display: flex;justify-content: center;
 }
 
 .navigation.open {
