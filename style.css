@@ -147,5 +147,5 @@ body {
 }
 
 .navigation ul li.active a .text {
-    color: var();
+    color: var(--clr);
 }
