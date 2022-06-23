@@ -50,5 +50,5 @@ body {
     background: #333;
     transform: translateY(8px);
     transition: 0.5s;
-    box-shadow: ;
+    box-shadow: 0;
 }
