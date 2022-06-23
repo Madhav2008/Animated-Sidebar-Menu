@@ -13,7 +13,7 @@ body {
 
 .navigation {
     position: fixed;
-    inset: 20px;
+    inset: 20px 0;
     width: 75px;
     background: #fff;
 }
