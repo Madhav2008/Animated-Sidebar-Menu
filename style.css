@@ -100,5 +100,6 @@ body {
     display: block;
     min-width: 55px;
     height: 55px;
-    line-height: 60px;transition: 0.5s;
+    line-height: 60px;
+    transition: 0.5s;
 }
