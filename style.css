@@ -102,7 +102,8 @@ body {
     height: 55px;
     line-height: 60px;
     transition: 0.5s;
-    border-radius: 10px;font-size: 1.75em;
+    border-radius: 10px;
+    font-size: 1.75em;
     color: #222;
 }
 
