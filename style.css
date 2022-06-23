@@ -48,7 +48,7 @@ body {
 }
 
 .navigation.open .menuToggle::before {
-    transform: translateY(0px);
+    transform: translateY(0px) rotate();
 }
 
 .navigation .menuToggle::after {
