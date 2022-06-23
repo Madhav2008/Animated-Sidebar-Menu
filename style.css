@@ -42,7 +42,7 @@ body {
     transition: 0.5s;
 }
 
-.navigation .menuToggle::before {
+.navigation .menuToggle::after {
     content: '';
     position: absolute;
     width: 30px;
