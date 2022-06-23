@@ -72,5 +72,5 @@ body {
 
 .navigation ul {
     display: flex;
-    flex-direction: column;
+    flex-direction: column;gap: ;
 }
