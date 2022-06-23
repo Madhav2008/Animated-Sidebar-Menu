@@ -33,5 +33,6 @@ body {
 
 .navigation .menuToggle::before {
     content: '';
-    position: absolute;width: 30px;
+    position: absolute;
+    width: 30px;
 }
