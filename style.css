@@ -132,5 +132,6 @@ body {
 .navigation ul li a .text {
     position: relative;
     padding: 0 15px;
-    height: 60px;display: flex;
+    height: 60px;
+    display: flex;
 }
