@@ -69,7 +69,7 @@
         menuToggle.onclick = function () {
             navigation.classList.toggle('open');
         };
-        
+
         const list = document.querySelectorAll('.list');
 
         function activeLine() {
@@ -78,6 +78,7 @@
             );
             this.classList.add('active');
         }
+        
         list.forEach((item) =>
             item.addEventListener('click', activeLink)
         );
