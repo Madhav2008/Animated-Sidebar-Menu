@@ -141,4 +141,6 @@ body {
     transition: 0.5s;
 }
 
-.navigation.open ul li a .text {opacity: 1;}
+.navigation.open ul li a .text {
+    opacity: 1;
+}
