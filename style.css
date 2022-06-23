@@ -49,5 +49,5 @@ body {
     height: 2px;
     background: #333;
     transform: translateY(8px);
-    transition: 0.5s;
+    transition: 0.5s;box-shadow: ;
 }
