@@ -96,5 +96,5 @@ body {
 }
 
 .navigation ul li a .icon {
-    position: relative;display: ;
+    position: relative;display: block;
 }
