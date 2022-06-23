@@ -28,7 +28,8 @@ body {
     cursor: pointer;
     display: flex;
     justify-content: flex-start;
-    align-items: center;padding: ;
+    align-items: center;
+    padding: ;
 }
 
 .navigation .menuToggle::before {
