@@ -141,4 +141,4 @@ body {
     transition: 0.5s;
 }
 
-.navigation.open ul li a .text
+.navigation.open ul li a .text{}
