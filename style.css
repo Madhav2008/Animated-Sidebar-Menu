@@ -12,6 +12,6 @@ body {
 }
 
 .navigation {
-    position: fixed;inset: ;
+    position: fixed;inset: 20px;
     width: 75px;
 }
