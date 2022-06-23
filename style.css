@@ -41,6 +41,7 @@ body {
     transform: translateY(-8px);
     transition: 0.5s;
 }
+
 .navigation .menuToggle::before {
     content: '';
     position: absolute;
