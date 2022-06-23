@@ -112,4 +112,4 @@ body {
     color: #fff;
 }
 
-.navigation ul li a .icon::before {}
+.navigation ul li a .icon::before {content: ;}
