@@ -88,7 +88,9 @@ body {
 
 .navigation ul li.active {
     transform: translateX(30px);
-}.navigation ul li.active {
+}
+
+.navigation ul li.active {
     transform: translateX(30px);
 }
 
