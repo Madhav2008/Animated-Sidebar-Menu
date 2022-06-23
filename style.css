@@ -127,4 +127,4 @@ body {
 
 .navigation ul li.active a .icon::before {
     opacity: 0.5;
-}
+}.navigation ul li a .icon
