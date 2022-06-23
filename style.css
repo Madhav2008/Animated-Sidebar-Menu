@@ -125,4 +125,6 @@ body {
     transition: 0.5s;
 }
 
-.navigation ul li.active a .icon::before {opacity: 1;}
+.navigation ul li.active a .icon::before {
+    opacity: 1;
+}
