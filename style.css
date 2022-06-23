@@ -84,8 +84,10 @@ body {
     height: 60px;
     padding: 0 10px;
     transition: 0.5s;
-}.navigation ul li 
-{}
+}
+
+.navigation ul li {}
+
 .navigation ul li a {
     position: relative;
     display: flex;
