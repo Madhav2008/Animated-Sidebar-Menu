@@ -91,7 +91,6 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    width: 100px;
     background: #000;
     text-align: center;
 }
