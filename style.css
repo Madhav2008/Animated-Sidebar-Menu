@@ -121,5 +121,6 @@ body {
     height: 100%;
     background: var(--clr);
     filter: blur(8px);
-    opacity: 0;transition: 0.5s;
+    opacity: 0;
+    transition: 0.5s;
 }
