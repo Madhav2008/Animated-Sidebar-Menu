@@ -18,7 +18,7 @@ body {
     background: #fff;
 }
 
-.navigation.open {width: ;}
+.navigation.open {width: 250px;}
 
 .navigation .menuToggle {
     position: absolute;
