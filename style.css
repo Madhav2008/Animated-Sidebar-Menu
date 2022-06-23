@@ -63,5 +63,5 @@ body {
 }
 
 .navigation.open .menuToggle::after {
-    transform: translateY(0px) rotate(-45deg);box-shadow: ;
+    transform: translateY(0px) rotate(-45deg);box-shadow: none;
 }
